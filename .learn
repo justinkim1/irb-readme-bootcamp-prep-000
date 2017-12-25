@@ -6,3 +6,4 @@ languages:
 resources: 0
 feature_tours:
   slack: true
+
